@@ -1,0 +1,47 @@
+span {
+  display: flex;
+}
+
+button {
+  height: 10px;
+}
+
+#boxes {
+  display: flex;
+  flex-wrap: wrap;
+  width: 660px;
+}
+
+div {
+  border: black solid 1px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
+
+.special {
+  background-color: #9933ff;
+}
+
+.eat {
+  background-color: red;
+}
+
+.temp {
+  background-color: orange;
+}
+
+.RIP {
+  border: black 1px solid;
+  height: 300px;
+  width: 300px;
+}
